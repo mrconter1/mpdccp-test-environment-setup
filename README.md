@@ -1,4 +1,4 @@
-**# MPDCCP Test Environment Setup
+# MPDCCP Test Environment Setup
 
 This repository contains a script that automates the setup of a Multi-Path DCCP (MPDCCP) testing environment using virtual machines and custom network configurations.
 
